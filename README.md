@@ -63,9 +63,6 @@ The goal of this assignment was to implement and train a semantic segmentation m
 
 The repository includes a visualization tool to generate predictions and compare them to ground truth. Example images can be found in `image_vis.png` and `label_vis.png`.
 
-| Input Image | Ground Truth |
-|-------------|--------------|
-| ![Input](image_vis.png) | ![Label](label_vis.png) |
 
 ## References
 
